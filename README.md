@@ -9,10 +9,15 @@ As a Supporter of Elon Musk This is my take to help people know what can happen 
 
 
 
-Build the app 
+Build the app
+
+
 $ cargo build
 
 
 
 Run the Command Line app
+
+
+
 $ cargo run
